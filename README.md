@@ -1,3 +1,5 @@
+Everything is working except the -R.  
+
 # my_ls
 
 - **Binary name:** my_ls  
